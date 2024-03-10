@@ -63,6 +63,29 @@ textarea:focus{
     font-family: "Roboto", sans-serif;
 }
 
+.emergency{
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    border: 1px solid #930707;
+    padding: 15px;
+    gap: 0px;
+    margin-bottom: 10px;
+    width: 50%;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #930707;
+    color: #000;
+    margin-top: 20px;
+}
+
+.emergency a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+}
+
 .mb{
     margin-bottom: 50px;
 }
