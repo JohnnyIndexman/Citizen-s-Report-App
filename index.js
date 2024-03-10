@@ -100,7 +100,7 @@ function validation(){
         isValid=false
     }
 
-    else if (d === '') {
+    else if (d === '' || !d.includes('/') || d.length > 8) {
         small[1].innerHTML = 'Empty space... add a date.';
         small[1].style.color = 'red'; 
         isValid=false

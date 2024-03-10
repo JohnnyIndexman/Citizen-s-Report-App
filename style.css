@@ -163,7 +163,6 @@ textarea:focus{
     background-size: cover;
     color: #000;
     display: none;
-    height: 100vh;
 }
 
 .second-section{
