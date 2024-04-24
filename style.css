@@ -238,7 +238,7 @@ button:hover{
     display: none;
     background-color: #333335;
     color: #fff;
-    height: 100vh;
+    height: 100%;
 }
 
 .fa-angles-left{
